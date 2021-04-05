@@ -1,5 +1,13 @@
-#iykcy{
-  color:#ffffff;
+*{
+  box-sizing:border-box;
+}
+body{
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+  height:100%;
+  background-color:rgb(0, 0, 0);
 }
 *{
   box-sizing:border-box;
@@ -208,7 +216,74 @@ body{
   font-size:235px;
   line-height:0;
 }
+#iykcy{
+  color:rgb(255, 255, 255);
+}
 @media only screen and (max-width: 992px){
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
   .parallax-container .section{
 	position:absolute;
 	top:40%;
@@ -287,8 +362,32 @@ body{
   .blogmeta ul li{
 	float:left;
   }
+  .blogmeta ul li{
+	float:left;
+  }
+  .blogmeta ul li{
+	float:left;
+  }
+  .blogmeta ul li{
+	float:left;
+  }
+  .blogmeta ul li{
+	float:left;
+  }
 }
 @media (max-width: 768px){
+  .col.m12.white{
+	float:none;
+  }
+  .col.m12.white{
+	float:none;
+  }
+  .col.m12.white{
+	float:none;
+  }
+  .col.m12.white{
+	float:none;
+  }
   .col.m12.white{
 	float:none;
   }
